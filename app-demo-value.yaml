@@ -5,7 +5,7 @@
 replicaCount: 2
 
 image:
-  repository: rockman88v/december-demo:v1
+  repository: rockman88v/december-demo
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1"
